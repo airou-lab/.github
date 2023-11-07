@@ -8,4 +8,4 @@ This organization hosts repositories of source code for the various projects we 
 
 Visit our website to learn more about us. [AIROU (ou.edu/airou)](https://ou.edu/airou/).
 
-To view our documentation wiki, [visit our GitHub Page][https://airou-lab.github.io/air-lab-documentation/]
+To view our documentation wiki, [visit our GitHub Page](https://airou-lab.github.io/air-lab-documentation/)
